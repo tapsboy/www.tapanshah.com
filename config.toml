@@ -13,14 +13,13 @@ theme = "portfolio"
   description = "Welcome to my homepage"
   copyright = "&copy;2017 Tapan Shah"
   sidebarAbout = [
-    "I am a developer.",
-    "Originally from Ahmedabad, India. Now live in New York, NY."
+    "New York, NY."
   ]
 
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "/"
+  url = ""
 
   [[params.navlinks]]
   name = "About"
