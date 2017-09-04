@@ -1,0 +1,5 @@
+baseURL = "http://tapsboy.github.io/"
+languageCode = "en-us"
+title = "Tapan Shah - Homepage"
+theme = "portfolio"
+style = "default"
