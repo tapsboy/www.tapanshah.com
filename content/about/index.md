@@ -1,7 +1,6 @@
 ---
 title: "About Me"
-date: 2017-09-04T13:56:03-04:00
-draft: true
+date: 2017-09-04T14:37:34-04:00
 ---
 
 I am developer in New York, NY
