@@ -2,4 +2,35 @@ baseURL = "http://www.tapanshah.com/"
 languageCode = "en-us"
 title = "Tapan Shah - Homepage"
 theme = "portfolio"
-style = "default"
+
+# Enable Google Analytics by entering your tracking code
+#googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "blue"
+  description = "Welcome to my homepage"
+  copyright = "&copy;2017 Tapan Shah"
+  sidebarAbout = [
+    "I am a developer.",
+    "Originally from Ahmedabad, India. Now live in New York, NY."
+  ]
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "/"
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [params.social]
+  email         = "tapsboy at gmail dot com"
+  twitter       = "https://twitter.com/tapsboy"
+  googleplus    = "https://plus.google.com/+TapanShah1982"
+  linkedin      = "https://www.linkedin.com/in/tapanshah/"
+  stackoverflow = "https://stackoverflow.com/users/720644/tapsboy"
+  instagram     = "https://www.instagram.com/tapsboy/"
+  github        = "https://github.com/tapsboy"
