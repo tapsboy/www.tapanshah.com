@@ -1,4 +1,4 @@
-baseURL = "http://www.tapanshah.com/"
+baseURL = "https://www.tapanshah.com/"
 languageCode = "en-us"
 title = "Tapan Shah - Homepage"
 theme = "portfolio"
