@@ -4,7 +4,7 @@ title = "Tapan Shah - Homepage"
 theme = "portfolio"
 
 # Enable Google Analytics by entering your tracking code
-#googleAnalytics = ""
+#googleAnalytics = "UA-178221-5"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
