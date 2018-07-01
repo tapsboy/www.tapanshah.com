@@ -25,6 +25,11 @@ theme = "portfolio"
   name = "About"
   url = "about/"
 
+  [[params.navlinks]]
+  name = "Twitter Feed"
+  url = "twitter/"
+  
+
   [params.social]
   email         = "tapsboy at gmail dot com"
   twitter       = "https://twitter.com/tapsboy"
